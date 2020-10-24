@@ -2,6 +2,7 @@
 
 * [0 - 言語非依存](#0---%e8%a8%80%e8%aa%9e%e9%9d%9e%e4%be%9d%e5%ad%98)
   * [アクセシビリティ](#%e3%82%a2%e3%82%af%e3%82%bb%e3%82%b7%e3%83%93%e3%83%aa%e3%83%86%e3%82%a3)
+  * [クラウド](#%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89)
   * [グラフィックスプログラミング](#%e3%82%b0%e3%83%a9%e3%83%95%e3%82%a3%e3%83%83%e3%82%af%e3%82%b9%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0)
   * [グラフィックユーザーインターフェイス](#%e3%82%b0%e3%83%a9%e3%83%95%e3%82%a3%e3%83%83%e3%82%af%e3%83%a6%e3%83%bc%e3%82%b6%e3%83%bc%e3%82%a4%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%95%e3%82%a7%e3%82%a4%e3%82%b9)
   * [セキュリティ](#%e3%82%bb%e3%82%ad%e3%83%a5%e3%83%aa%e3%83%86%e3%82%a3)
@@ -87,6 +88,9 @@
 * [iOS アクセシビリティ プログラミング ガイド](https://developer.apple.com/jp/accessibility/ios) - Apple Developer
 * [アクセシビリティのための設計](https://msdn.microsoft.com/ja-jp/library/windows/apps/hh700407.aspx) - MSDN Library
 
+#### クラウド
+
+* [AWSによるクラウド入門](https://tomomano.gitlab.io/intro-aws) - 真野智之
 
 #### グラフィックスプログラミング
 
